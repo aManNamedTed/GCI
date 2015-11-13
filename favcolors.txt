@@ -12,12 +12,56 @@ nick - yellow! dunlop .73mm guitar pick
 sienna - teal
 alissa - Purple!!!
 max - red
+kim - red
+donte - purple
+ty - pink
+jacqueline - violet
+huy - baby blue
+nayeli - black
+sienna's friend - green
+sierra - orange
+danielle - yellow
+brinsky - purple
+krystal - green
+saloni - grey!
+evelynn - "nudes lmao like beige, light brown."
+daisha - pink
+jazzmine/kranky - purple :)
+kelsey - lavender/purple
+sal - red and green
+anass - blue
+ariel - red
+jessica - green
+jocelyne - purple :)
+mimsrizo - grey!
+sarah - 'every color in the sky'
 
-female: 11
+female: 12
 male: 2, but really 3
 
+probably use matrices to see the ammount of time the word of the color appears.
+
+so like,
+
+pink	beige
+3	1
+purple	blue
+1	3
+
+if pink appeared 3 times, respond with __________
+if pink happened less than 3 times, and beige appears more than once, respond 
+with ____________
+if purple occurs once or twice, and blue appears exactly three times,
+respond with __________________
+
+if you use names, make sure to use mostly unisex names to throw players off.
+if you don't, use the first letter of their name, the first initial of their
+last, and maybe as a variable, the middle initial.
+this can be used for further puzzle value.
+
+
 wearing a ______ [article of clothing] while the guy had a [weapon of sorts] and
-proceeded yell [shout] [amount of times] times. 
+proceeded to yell [word to yell] [amount of times] times. 
 
 [gender] also was reported to have had an expression written upon his wrist.
 the math equation (math equation involving variable) looked like
